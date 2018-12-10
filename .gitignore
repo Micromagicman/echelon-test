@@ -1,0 +1,7 @@
+.gradle
+.idea
+gradle
+out
+
+*.class
+!build/libs/echelon-0.0.0.jar
